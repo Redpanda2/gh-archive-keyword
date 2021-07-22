@@ -44,7 +44,7 @@ Cette API doit notamment permettre de répondre aux besoins de l'interface de da
 Le test d'acceptation associé au dashboard :
 
 ```Gherkin
-En tant qu'utiisateur du dashboard GH Archive Keyword
+En tant qu'utilisateur du dashboard GH Archive Keyword
 Lorsque je renseigne une date et un mot clé
 Alors pour les critères de recherche saisis le nombre total d'évènements est affiché
 Et le nombre total par type d'évènements est affiché 
